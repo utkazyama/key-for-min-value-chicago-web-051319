@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
     min = price[0]
     if min>#{price[]}
     min=#price[]
-  end
+  　end
   end
   print min
 end
