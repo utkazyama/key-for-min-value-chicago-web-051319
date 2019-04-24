@@ -3,10 +3,9 @@
 
 def key_for_min_value(name_hash)
   name_hash.each do |product, price|
-    min = 0
-    if min>#{price}
-
-if (min > n[i]) {	//現在の最小値よりも小さい値が出たら
-				min = n[i];	//変数minに値を入れ替える
-			}
+    min = price[0]
+    if min>#{price[]}
+    min=#price[]
+  end
+  print min
 end
